@@ -1,0 +1,23 @@
+{
+	"name": "natoursproject",
+	"version": "1.0.0",
+	"description": "Landing page for natours",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/EmmadeNie/AdvancedCssProject.git"
+	},
+	"author": "Emma de Nie",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/EmmadeNie/AdvancedCssProject/issues"
+	},
+	"homepage": "https://github.com/EmmadeNie/AdvancedCssProject#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"node-sass": "^6.0.1"
+	}
+}
